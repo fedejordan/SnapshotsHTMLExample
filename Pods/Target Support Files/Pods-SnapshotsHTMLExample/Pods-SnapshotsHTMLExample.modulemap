@@ -1,0 +1,6 @@
+framework module Pods_SnapshotsHTMLExample {
+  umbrella header "Pods-SnapshotsHTMLExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
